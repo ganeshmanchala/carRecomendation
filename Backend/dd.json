@@ -1,0 +1,137 @@
+{
+    "_id": {
+      "$oid": "680117c0a78b26395394bcb7"
+    },
+    "spec_url": "https://www./overview/Maruti_S-Presso/Maruti_S-Presso_LXI_CNG.htm#specification",
+    "base_specs": {
+      "price": "5.92 Lakh",
+      "model": "Maruti S-Presso LXI CNG"
+    },
+    "category": "fuel",
+    "ev_specific": null,
+    "fuel_specific": {
+      "engine": null,
+      "mileage": null
+    },
+    "last_updated": {
+      "$date": "2025-04-17T20:31:20.775Z"
+    },
+    "media": {
+      "image": "https://stimg./images/carexteriorimages/630x420/Maruti/S-Presso/10348/Maruti-S-Presso-LXi/1687519307943/front-left-side-47.jpg?imwidth=420&impolicy=resize"
+    },
+    "specs": {
+      "Image": "https://stimg.com/images/carexteriorimages/630x420/Maruti/S-Presso/10348/Maruti-S-Presso-LXi/1687519307943/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+      "Overview Title": "S-Presso LXI CNG overview",
+      "Key Specifications": {
+        "Engine": "998 cc",
+        "Power": "55.92 bhp",
+        "Transmission": "Manual",
+        "Mileage": "32.73 km/kg",
+        "Fuel": "CNG",
+        "No. of Airbags": "2"
+      },
+      "Top Features": {
+        "Features": "Air Conditioner"
+      },
+      "Model": "Maruti S-Presso LXI CNG",
+      "Rating": "4.3",
+      "Reviews": "454 Reviews",
+      "Price": "5.92 Lakh",
+      "Engine & Transmission": {
+        "Engine Type": "K1OC CNG",
+        "Displacement": "998 cc",
+        "Max Power": "55.92bhp@5300rpm",
+        "Max Torque": "82.1Nm@3400rpm",
+        "No. of Cylinders": "3",
+        "Valves Per Cylinder": "4",
+        "Transmission Type": "Manual",
+        "Gearbox": "5-Speed",
+        "Drive Type": "FWD"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "CNG",
+        "CNG Mileage ARAI": "32.73 km/kg",
+        "CNG Fuel Tank Capacity": "55 Litres",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut suspension",
+        "Rear Suspension": "Rear twist beam",
+        "Turning Radius": "4.5 m",
+        "Front Brake Type": "Ventilated Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3565 mm",
+        "Width": "1520 mm",
+        "Height": "1553 mm",
+        "Seating Capacity": "4",
+        "Wheel Base": "2380 mm",
+        "Kerb Weight": "834-854 kg",
+        "Gross Weight": "1170 kg",
+        "No. of Doors": "5",
+        "Reported Boot Space": "240 Litres"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Air Conditioner": "Yes",
+        "Heater": "Yes",
+        "Accessory Power Outlet": "No",
+        "Parking Sensors": "Rear",
+        "KeyLess Entry": "No",
+        "Gear Shift Indicator": "No",
+        "Idle Start-Stop System": "No",
+        "Additional Features": "Map Pockets (Front Doors),Front & Rear console Utility Space,Co-Driver Side Utility Space,Reclining & Front Sliding Seats"
+      },
+      "Interior": {
+        "Glove Box": "Yes",
+        "Additional Features": "Dynamic Centre Console,High Seating For Commanding Drive View,Front Cabin Lamp (3 Positions),Sunvisor (Dr+Co. Dr)",
+        "Digital Cluster": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlamps": "Yes",
+        "Wheel Covers": "No",
+        "Integrated Antenna": "No",
+        "Halogen Headlamps": "Yes",
+        "Boot Opening": "Manual",
+        "Tyre Size": "145/80 R13",
+        "Tyre Type": "Tubeless,Radial",
+        "Wheel Size": "13 Inch",
+        "LED Taillights": "Yes",
+        "Additional Features": "SUV Inspired Bold Front Fascia,Twin Chamber Headlamps,Signature C Shaped Tail Lamps,Side Body Cladding"
+      },
+      "Safety": {
+        "Anti-lock Braking System (ABS)": "Yes",
+        "Central Locking": "No",
+        "Child Safety Locks": "Yes",
+        "No. of Airbags": "2",
+        "Driver Airbag": "Yes",
+        "Passenger Airbag": "Yes",
+        "Electronic Brakeforce Distribution (EBD)": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Door Ajar Warning": "No",
+        "Engine Immobilizer": "Yes",
+        "Electronic Stability Control (ESC)": "No",
+        "Speed Alert": "Yes",
+        "Speed Sensing Auto Door Lock": "No",
+        "Pretensioners & Force Limiter Seatbelts": "Driver and Passenger",
+        "Hill Assist": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "No",
+        "Integrated 2DIN Audio": "No",
+        "Bluetooth Connectivity": "No",
+        "Touchscreen": "No",
+        "Android Auto": "No",
+        "Apple CarPlay": "No"
+      },
+      "Additional Specs 1": {
+        "Engine": "998 cc",
+        "Power": "55.92 bhp",
+        "Transmission": "Manual",
+        "Mileage": "32.73 km/kg",
+        "Fuel": "CNG",
+        "No. of Airbags": "2"
+      }
+    }
+  }
